@@ -1,0 +1,21 @@
+{
+  "name": "github-user-fetcher-training",
+  "version": "1.0.0",
+  "main": "githubUserFetcher.js",
+  "description": "Fetch GitHub user data and repos",
+  "keywords": [
+    "github",
+    "api",
+    "user",
+    "repos"
+  ],
+  "author": "Shkelz Ahmeti",
+  "license": "MIT",
+  "files": [
+    "githubUserFetcher.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/github-user-fetcher-training"
+  }
+}
